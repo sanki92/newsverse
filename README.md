@@ -1,3 +1,9 @@
+# Newsverse - Get Daily Dose of News
+
+## Watch working of Newsverse - 
+[![Watch Working of Newsverse](https://www.freepnglogos.com/uploads/youtube-logo-red-hd-13.png)](https://www.youtube.com/watch?v=eU7LyKz6EHI)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
